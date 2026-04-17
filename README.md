@@ -27,15 +27,15 @@ Estou focado em desenvolvimento Front-End.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Linguagens de programação:
 
-### Frontend
+### Front-end
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Estatísticas:
 
 <p align="left">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=raloidasilva355-web_icons=true&theme=tokyonight&count_private=true" />

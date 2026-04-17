@@ -33,5 +33,4 @@ Estou focado em desenvolvimento Front-End.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
 
-> _"Code is not just about solving problems.  
-> It's about building solutions 
+> _"Code is not just about solving problems. It's about building solutions!

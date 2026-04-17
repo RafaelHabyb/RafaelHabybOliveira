@@ -33,15 +33,5 @@ Estou focado em desenvolvimento Front-End.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
 
----
-
-## 📊 GitHub Estatísticas:
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=raloidasilva355-web_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raloidasilva355-web&layout=compact&theme=tokyonight" />
-</p>
-
-
 > _"Code is not just about solving problems.  
 > It's about building solutions 

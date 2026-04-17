@@ -1,13 +1,13 @@
-# Hi 👋, I'm Rafael Habyb
+# Oi 👋, Eu sou Rafael Habyb
 
 🚀 **Cursando Graduação em Sistemas de Informação- UFU**  
 🇧🇷 Brazil
 
-I’m focused on **Front-end development**.
+Estou focado em desenvolvimento Front-End.
 
 ---
 
-## 🌐 Where to find me
+## 🌐 Onde você pode me encontrar:
 
 <p align="left">
   <a href="https://github.com/raloidasilva355-web/RafaelHabybOliveira">
@@ -19,11 +19,11 @@ I’m focused on **Front-end development**.
 
 ---
 
-## 🧠 What am I learning:
+## 🧠 O que estou aprendendo:
 
--   ![alt text](image-1.png) HTML
--   ![alt text](image.png) CSS
--   ![alt text](image-2.png) JAVASCRIPT
+-   HTML
+-   CSS
+-   JAVASCRIPT
 
 ---
 
